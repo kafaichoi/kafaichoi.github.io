@@ -1,0 +1,16 @@
+---
+.title = "Log - 2025",
+.date = @date("2025-05-01T15:43:00"),
+.author = "Sample Author",
+.layout = "devlog.shtml",
+.draft = false,
+--- 
+[]($section.id('blog'))
+## About this log
+
+This is the log section that I feel comfortable to share with public.
+
+
+
+## [Hello World]($section.id("2025-05-01T15:43:00"))
+The day that I started working on this website with Zine.

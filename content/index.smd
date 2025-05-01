@@ -1,0 +1,15 @@
+---
+.title = "Welcome",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Sample Author",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+Hello, I'm KaFai, a self-taught programmer from HK. I have worked in different startups before(most recently in [River](https://river.com)).
+I plan to document my learning journey and hopefully it will benefits others as well.
+
+I also believe in [small web](https://kagi.com/smallweb) and open-protocols like
+RSS and [Nostr](https://nostr.com/).
+
+This website is built with [Zine](https://zine-ssg.io/), a new static site generator in Zig.
